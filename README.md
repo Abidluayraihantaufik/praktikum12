@@ -36,8 +36,8 @@ print(txt.format(umur))
 ```
 # Output Program
 
-~latihan 1
+### latihan 1
 ![img](/gambar/latihan%201.png)
 
-~latihan 2
+### latihan 2
 ![img](/gambar/latihan2.png)
