@@ -35,5 +35,11 @@ txt = 'Hello, nama saya john, dan umur saya adalah {0} tahun'
 print(txt.format(umur))
 ```
 # Output Program
+```sh
+~latihan 1
 ![img](/gambar/latihan%201.png)
+```
+```sh
+~latihan 2
 ![img](/gambar/latihan2.png)
+```
